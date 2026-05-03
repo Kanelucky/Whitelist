@@ -1,0 +1,12 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-whitelist"
+version = "0.1.0"
+description = "A whitelist plugin for endstone"
+author = "Kanelucky"
+
+[project.entry-points."endstone"]
+whitelist = "endstone_whitelist:Whitelist"

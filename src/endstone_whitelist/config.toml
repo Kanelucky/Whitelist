@@ -1,0 +1,4 @@
+[messages]
+player_added = "Added {player} to whitelist"
+player_removed = "Removed {player} from whitelist"
+player_not_in_whitelist = "{player} isn't in whitelist!"
