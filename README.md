@@ -3,7 +3,7 @@
 ---
 
 # Configuration (config.toml)
-```aiignore
+```toml
 [messages]
 player_added = "§aAdded {player} to whitelist"
 player_removed = "§cRemoved {player} from whitelist"
