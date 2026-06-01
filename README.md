@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> No longer needed. In 1.26.20, the allowlist system has been rebuilt.
+> Usage: https://learn.microsoft.com/en-us/minecraft/creator/commands/commands/allowlist?view=minecraft-bedrock-stable
+
+
 # Whitelist
 - **A whitelist plugin for [Endstone](https://github.com/EndstoneMC/endstone)**
 ---
